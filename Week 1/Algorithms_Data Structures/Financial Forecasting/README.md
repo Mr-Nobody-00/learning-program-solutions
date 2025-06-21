@@ -1,4 +1,4 @@
-# 📈 Financial Forecasting Tool (CTS Task)
+#  Financial Forecasting Tool (CTS Task)
 
 This Java application demonstrates how to forecast future financial values using a **recursive algorithm**, with support for an optimized iterative solution.
 
@@ -16,7 +16,7 @@ Recursion is a programming technique where a function calls itself to solve smal
 To calculate future investment value with compound interest.
 
 
-## 🧠 4. Analysis & Optimization
+## 4. Analysis & Optimization
 
 | Method     | Time Complexity | Notes                               |
 |------------|------------------|-------------------------------------|
